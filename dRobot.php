@@ -1,9 +1,9 @@
 <?php
 
 /**
-  *@author: @zuoyebang.com
-  *@brief :
-  *@data  : y-m-d
+  *@author: caoshanqiang@zuoyebang.com
+  *@brief : 钉钉通知
+  *@data  : 2018-10-18
   *
   **/
 
