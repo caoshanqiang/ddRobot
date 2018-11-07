@@ -54,8 +54,6 @@ public static function execute(){
     $jlNewYear = self::getDay($newYear);
     $message="距离19年元旦还有 $jlYuandan,
     距离19年新年还有 $jlNewYear,
-    填公积金!
-    填公积金!
     ";
 	//$message = 'test';
 	$atMobiles = '15600367801';
