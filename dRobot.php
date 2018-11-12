@@ -52,11 +52,12 @@ public static function execute(){
     $newYear = strtotime('2019-02-05 00:00:00');
     $jlYuandan = self::getDay($yuandan);
     $jlNewYear = self::getDay($newYear);
-    $message="距离19年元旦还有 $jlYuandan,
-    距离19年新年还有 $jlNewYear,
-    ";
-	//$message = 'test';
-	$atMobiles = '15600367801';
+//    $message="距离19年元旦还有 $jlYuandan,
+//    距离19年新年还有 $jlNewYear,
+//    ";
+$message = '高倩傻x';
+//	$atMobiles = '15600367801';//csq
+	$atMobiles = '13255661500';//高倩
 		$data = [
             'msgtype' => 'text',
             'text'    => [
